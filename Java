@@ -1,1 +1,3 @@
-Public static void main(string[] args) 
+Public static void main(string[] args) {
+       int i;
+       }
